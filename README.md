@@ -7,6 +7,7 @@ class JxTx:
         self.name = 'Joe Thorpe'
         self.web = 'https://jxtx.gitlab.io'
         self.twitter = '@JxTx__'
+        self.music = ['Grind Core', 'Death Metal', 'Slamming Death Metal', 'Gore Grind']
         self.editor = 'Emacs'
         self.projects = 'https://gitlab.com/JxTx'
         self.code = {
